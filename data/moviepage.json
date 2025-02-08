@@ -1,0 +1,107 @@
+[
+    {
+        "id": "1",
+        "title": "The Matrix",
+        "description": "Neo, a computer programmer and hacker, has always questioned the reality of the world around him. His suspicions are confirmed when Morpheus, a rebel leader, contacts him and reveals the truth to him.",
+        "image": "/images/matrix.png",
+        "genre": "Action, Science Fiction",
+        "actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Gloria Foster, Joe Pantoliano",
+        "director": "Lana Wachowski",
+        "country": "United States of America",
+        "duration": "2h 16m",
+        "release": "1999",
+        "production": "Village Roadshow Pictures, Groucho II Film Partnership, Silver Pictures, Warner Bros. Pictures"
+    },
+    {
+        "id": "2",
+        "title": "Casino Royale",
+        "description": "James Bond must prevent Le Chiffre, a banker to the world's most dangerous criminal organisations, from winning a high stakes poker game. He is assisted by Vesper Lynd, a British Treasury agent.",
+        "image": "/images/casino-royale.jpg",
+        "genre": "Adventure, Action, Thriller",
+        "actors": "Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench, Jeffrey Wright, Giancarlo Giannini",
+        "director": "Martin Campbell",
+        "country": "United Kingdom, United States of America",
+        "duration": "1h 30m",
+        "release": "2006",
+        "production": "Metro-Goldwyn-Mayer, Columbia Pictures, EON Productions, Danjaq, Casino Royale Productions"
+    },
+    {
+        "id": "3",
+        "title": "Breaking Bad",
+        "description": "Walter White, a chemistry teacher, discovers that he has cancer and decides to get into the meth-making business to repay his medical debts. His priorities begin to change when he partners with Jesse.",
+        "image": "/images/breaking-bad.jpg",
+        "genre": "Drama, Crime",
+        "actors": "Bryan Cranston, Aaron Paul, Anna Gunn, RJ Mitte, Dean Norris, Betsy Brandt",
+        "director": "Vince Gilligan",
+        "country": "United States of America",
+        "duration": "59 min",
+        "release": "2013",
+        "production": "Sony Pictures Television, High Bridge Productions, Gran Via Productions"
+    },
+    {
+        "id": "4",
+        "title": "Better Call Saul",
+        "description": "Ex-con artist Jimmy McGill turns into a small-time attorney and goes through a series of trials and tragedies, as he transforms into his alter ego Saul Goodman, a morally challenged criminal lawyer.",
+        "image": "/images/better-call-saul.jpg",
+        "genre": "Crime, Drama",
+        "actors": "Bob Odenkirk, Jonathan Banks, Rhea Seehorn, Tony Dalton, Giancarlo Esposito",
+        "director": "Peter Gould, Vince Gilligan",
+        "country": "United States of America",
+        "duration": "59 min",
+        "release": "2022",
+        "production": "Sony Pictures Television, Gran Via Productions, High Bridge Productions, Crystal Diner"
+    },
+    {
+        "id": "5",
+        "title": "Jaws",
+        "description": "When a giant white shark fatally attacks swimmers on the shores of Amity Island, Sheriff Martin Brody teams up with a marine biologist and a local fisherman to hunt down the creature.",
+        "image": "/images/jaws.png",
+        "genre": "Horror, Thriller, Adventure",
+        "actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary, Murray Hamilton, Carl Gottlieb",
+        "director": "Steven Spielberg",
+        "country": "United States of America",
+        "duration": "2h 4m",
+        "release": "1975",
+        "production": "The Zanuck/Brown Company, Universal Pictures"
+    },
+    {
+        "id": "6",
+        "title": "Thor",
+        "description": "Thor is exiled by his father, Odin, the King of Asgard, to the Earth to live among mortals. When he lands on Earth, his trusted weapon Mjolnir is discovered and captured by S.H.I.E.L.D.",
+        "image": "/images/thor.jpg",
+        "genre": "Adventure, Fantasy, Action",
+        "actors": "Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, Stellan Skarsgård, Kat Dennings",
+        "director": "Kenneth Branagh",
+        "country": "United States of America",
+        "duration": "1h 55m",
+        "release": "2011",
+        "production": "Marvel Studios, Marvel Entertainment"
+    },
+
+    {
+        "id": "7",
+        "title": "Shrek",
+        "description": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back. It's the story of a terrifying green ogre by the name of Shrek.",
+        "image": "/images/shrek.png",
+        "genre": "Animation, Comedy, Fantasy, Adventure, Family",
+        "actors": "Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow, Vincent Cassel, Peter Dennis",
+        "director": "Andrew Adamson",
+        "country": "United States of America",
+        "duration": "1h 30m",
+        "release": "2001",
+        "production": "Pacific Data Images, DreamWorks Animation, DreamWorks Pictures"
+    },
+    {
+        "id": "8",
+        "title": "Iron Man",
+        "description": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.",
+        "image": "/images/ironMan.jpeg",
+        "genre": "Action, Science Fiction, Adventure",
+        "actors": "Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow, Leslie Bibb, Shaun Toub",
+        "director": "Jon Favreau",
+        "country": "United States of America",
+        "duration": "2h 6m",
+        "release": "2008",
+        "production": "Marvel Studios, Marvel Entertainment, Fairview Entertainment"
+    }
+]
