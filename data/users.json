@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "mateo doda",
+    "username": "mateo.doda13",
+    "email": "mateo.doda14@gmail.com",
+    "gender": "male"
+  },
+  {
+    "id": 2,
+    "name": "mateo doda",
+    "username": "adsfdsf",
+    "email": "mateo.doda@outlook.com",
+    "gender": "male"
+  },
+  {
+    "id": 3,
+    "name": "mateo doda",
+    "username": "mateo.doda@outlook.com",
+    "email": "mateo.doda@outlook.com",
+    "gender": "male"
+  },
+  {
+    "id": 4,
+    "name": "sadsadsa",
+    "username": "dadada",
+    "email": "asdsadsa@gmail.com",
+    "gender": "male"
+  }
+]

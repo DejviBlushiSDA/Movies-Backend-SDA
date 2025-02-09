@@ -2,11 +2,12 @@ import express from 'express';
 import bodyParser from 'body-parser';
 // import newsRoutes from './routes/news.js';
 import moviesRoutes from './routes/movies.js';
+import usersRoutes from './routes/users.js';
 import authRoutes from './routes/router.js';
-
+import cors from 'cors';
 
 const app = express();
-
+app.use(cors());
 app.use(bodyParser.json());
 app.use(express.static('public'));
 
@@ -19,6 +20,8 @@ app.use((req, res, next) => {
 });
 app.use(authRoutes);
 app.use('/movies', moviesRoutes);
+app.use('/users', usersRoutes);
+
 
 // Error handling middleware
 app.use((error, req, res, next) => {
